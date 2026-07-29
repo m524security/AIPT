@@ -131,9 +131,11 @@ If you discover a vulnerability:
 ---
 
 ## 🤖 AI System Prompt
+
 <p align="center">
   <img src="./markmap.png" alt="Project Mind Map" width="100%">
 </p>
+
 ### Usage Instructions
 
 1. **Copy the system prompt** from `prompts/system-prompt.md`
