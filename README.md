@@ -132,7 +132,7 @@ If you discover a vulnerability:
 
 ## 🤖 AI System Prompt
 <p align="center">
-  <img src="./markmap.svg" alt="Project Mind Map" width="100%">
+  <img src="./markmap.png" alt="Project Mind Map" width="100%">
 </p>
 ### Usage Instructions
 
