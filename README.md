@@ -1261,7 +1261,7 @@ all testing activities comply with applicable laws and regulations.
 
 - **Issues:** Report bugs or suggest improvements via GitHub Issues
 - **Discussions:** Join community discussions for methodology questions
-- **Security:** Report security concerns privately to security@example.com
+- **Security:** Report security concerns privately to m524security@gmail.com
 
 ---
 
