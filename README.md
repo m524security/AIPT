@@ -63,12 +63,12 @@ This framework provides a **comprehensive, rigorous, and aggressive** approach t
 +-----------------------------------------------------------------------------+
 |  BEFORE ANY TESTING, YOU MUST HAVE:                                         |
 |                                                                             |
-|  ✓ WRITTEN authorization from the system owner                             |
-|  ✓ DEFINED scope (in-scope and out-of-scope boundaries)                    |
-|  ✓ EMERGENCY contacts for immediate escalation                             |
-|  ✓ RULES of engagement (RoE) document signed by all parties                |
-|  ✓ LIABILITY waiver and insurance coverage (for professional engagements)  |
-|  ✓ DATA handling agreement (GDPR, CCPA compliance where applicable)        |
+|  ✓ WRITTEN authorization from the system owner                              |
+|  ✓ DEFINED scope (in-scope and out-of-scope boundaries)                     |
+|  ✓ EMERGENCY contacts for immediate escalation                              |
+|  ✓ RULES of engagement (RoE) document signed by all parties                 |
+|  ✓ LIABILITY waiver and insurance coverage (for professional engagements)   |
+|  ✓ DATA handling agreement (GDPR, CCPA compliance where applicable)         |
 +-----------------------------------------------------------------------------+
 ```
 
@@ -97,34 +97,34 @@ If you discover a vulnerability:
 
 ```
 +-----------------------------------------------------------------------------+
-|                         AI PENETRATION TESTING FRAMEWORK                     |
+|                         AI PENETRATION TESTING FRAMEWORK                    |
 +-----------------------------------------------------------------------------+
-|  LAYER 1: AI ORCHESTRATION                                                 |
-|  +- System Prompt (Role Definition, Behavioral Directives)                 |
-|  +- Context Management (Target, Scope, RoE)                                |
-|  +- Chain-of-Thought Reasoning (Attack Path Analysis)                      |
-|  +- Output Validation (False Positive Reduction)                           |
+|  LAYER 1: AI ORCHESTRATION                                                  |
+|  +- System Prompt (Role Definition, Behavioral Directives)                  |
+|  +- Context Management (Target, Scope, RoE)                                 |
+|  +- Chain-of-Thought Reasoning (Attack Path Analysis)                       |
+|  +- Output Validation (False Positive Reduction)                            |
 +-----------------------------------------------------------------------------+
-|  LAYER 2: METHODOLOGY ENGINE                                               |
-|  +- MITRE ATT&CK v19 (15 Tactics, 222 Techniques)                          |
-|  +- OWASP Top 10:2025 (Web Applications)                                   |
-|  +- OWASP API Security Top 10:2023                                         |
-|  +- OWASP LLM Top 10:2025 & Agentic Top 10:2026                            |
-|  +- PTES (Penetration Testing Execution Standard)                          |
-|  +- NIST AI RMF + Generative AI Profile                                    |
+|  LAYER 2: METHODOLOGY ENGINE                                                |
+|  +- MITRE ATT&CK v19 (15 Tactics, 222 Techniques)                           |
+|  +- OWASP Top 10:2025 (Web Applications)                                    | 
+|  +- OWASP API Security Top 10:2023                                          |
+|  +- OWASP LLM Top 10:2025 & Agentic Top 10:2026                             |
+|  +- PTES (Penetration Testing Execution Standard)                           |
+|  +- NIST AI RMF + Generative AI Profile                                     |
 +-----------------------------------------------------------------------------+
-|  LAYER 3: TOOL INTEGRATION                                                 |
-|  +- Kali Linux Default Toolset                                             |
-|  +- Custom Scripts & Automation                                            |
-|  +- MCP Server Integration (Burp Suite, Metasploit, etc.)                  |
-|  +- Cloud CLI Tools (AWS CLI, Azure CLI, gcloud)                           |
+|  LAYER 3: TOOL INTEGRATION                                                  |
+|  +- Kali Linux Default Toolset                                              |
+|  +- Custom Scripts & Automation                                             |
+|  +- MCP Server Integration (Burp Suite, Metasploit, etc.)                   |
+|  +- Cloud CLI Tools (AWS CLI, Azure CLI, gcloud)                            |
 +-----------------------------------------------------------------------------+
-|  LAYER 4: REPORTING & DOCUMENTATION                                        |
-|  +- CVSS v3.1 Scoring                                                      |
-|  +- CWE Mapping                                                            |
-|  +- Attack Chain Visualization                                             |
-|  +- Remediation Roadmap                                                    |
-|  +- Executive Summary Generation                                           |
+|  LAYER 4: REPORTING & DOCUMENTATION                                         |
+|  +- CVSS v3.1 Scoring                                                       |
+|  +- CWE Mapping                                                             |
+|  +- Attack Chain Visualization                                              | 
+|  +- Remediation Roadmap                                                     |
+|  +- Executive Summary Generation                                            |
 +-----------------------------------------------------------------------------+
 ```
 
