@@ -1210,7 +1210,7 @@ This framework is designed for **authorized security research only**. Contributi
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name/Organization]
+Copyright (c) 2026 Manish Jaju
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
