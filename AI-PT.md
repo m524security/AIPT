@@ -1,13 +1,3 @@
-# AIPT — SINGLE-FILE MASTER (ALL PROMPTS MERGED)
-# Merged: 2026-08-06 | Sources merged: 31 files -> 1
-# Content index (in order of appearance):
-# 1. AIPT.md (original)
-# 2. AIPT-ONE.md
-# 3. AIPT-MYTHOS-v4.0.md
-# 4. MPT.md
-# 5. rectified-pentest-prompt.md
-# 6. AIPT/ playbook directory (25 files + README)
-
 # AIPT — AI-Powered Aggressive Penetration Testing
 ## The Ultimate Attacker's Bible
 
